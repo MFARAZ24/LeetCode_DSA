@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
