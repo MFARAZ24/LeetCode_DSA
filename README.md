@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
