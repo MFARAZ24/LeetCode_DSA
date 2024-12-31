@@ -49,4 +49,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
