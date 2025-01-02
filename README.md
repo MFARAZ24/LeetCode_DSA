@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0319-bulb-switcher) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
