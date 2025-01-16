@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+| [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
