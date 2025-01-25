@@ -34,6 +34,7 @@
 | [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,11 +48,13 @@
 | ------- |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -69,8 +72,17 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
