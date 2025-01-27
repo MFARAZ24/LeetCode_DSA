@@ -70,6 +70,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
@@ -85,4 +86,12 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
