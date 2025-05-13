@@ -48,6 +48,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Design
@@ -75,6 +76,7 @@
 | [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 ## Recursion
@@ -82,6 +84,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -100,4 +103,5 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
