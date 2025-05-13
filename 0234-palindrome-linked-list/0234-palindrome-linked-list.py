@@ -32,13 +32,5 @@ class Solution:
         
         
 
-        curr = prev 
-        prev = None
-
-        while curr:
-            next_node = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next_node
-        slow.next = prev
+      
         return True
