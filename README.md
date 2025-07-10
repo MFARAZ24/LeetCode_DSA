@@ -26,11 +26,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
@@ -103,5 +105,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
