@@ -1,7 +1,7 @@
 class MyStack:
 
     def __init__(self):
-        self.Mystack = []
+        self.Mystack = deque()
         
 
     def push(self, x: int) -> None:
