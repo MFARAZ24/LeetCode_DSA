@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0319-bulb-switcher) |
+| [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -117,4 +120,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
