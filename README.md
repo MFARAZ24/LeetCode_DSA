@@ -41,6 +41,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
@@ -67,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 ## Brainteaser
@@ -123,5 +125,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
