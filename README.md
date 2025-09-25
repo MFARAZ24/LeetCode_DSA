@@ -156,4 +156,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0948-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
