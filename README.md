@@ -162,5 +162,6 @@
 | [0584-find-customer-referee](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
