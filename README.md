@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
@@ -164,4 +165,12 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1827-invalid-tweets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
