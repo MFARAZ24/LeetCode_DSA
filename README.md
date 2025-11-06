@@ -170,6 +170,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
