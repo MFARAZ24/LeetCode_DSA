@@ -26,11 +26,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
