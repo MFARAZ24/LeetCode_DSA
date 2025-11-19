@@ -5,8 +5,6 @@ class Solution:
             if len(perm) == len(nums):
                 res.append(perm.copy())
                 return
-            if index==len(nums):
-                return
             for n in nums:
                 if n in perm:
                     continue
