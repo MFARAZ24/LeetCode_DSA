@@ -13,6 +13,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1013-fibonacci-number) |
@@ -173,6 +175,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0077-combinations) |
