@@ -9,11 +9,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -37,6 +39,7 @@
 | [0039-combination-sum](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,10 +183,15 @@
 | [0046-permutations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
