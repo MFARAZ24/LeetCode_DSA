@@ -4,12 +4,14 @@
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -20,6 +22,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Hash Function
@@ -194,4 +197,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
