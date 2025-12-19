@@ -11,6 +11,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0938-range-sum-of-bst) |
 ## Hash Function
 |  |
 | ------- |
@@ -47,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0938-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
