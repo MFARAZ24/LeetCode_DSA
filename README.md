@@ -65,6 +65,7 @@
 | [0228-summary-ranges](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
+| [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0948-sort-an-array) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -148,6 +149,7 @@
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 ## Queue
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -219,4 +222,8 @@
 | [0100-same-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0226-invert-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
