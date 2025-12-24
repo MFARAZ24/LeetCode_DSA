@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
