@@ -69,6 +69,7 @@
 | [0948-sort-an-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0948-sort-an-array) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
