@@ -26,6 +26,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
@@ -54,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0046-permutations) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
