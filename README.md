@@ -30,6 +30,7 @@
 | [0022-generate-parentheses](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0572-subtree-of-another-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0225-implement-stack-using-queues](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1582-design-browser-history](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MFARAZ24/LeetCode_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
